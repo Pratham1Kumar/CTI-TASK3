@@ -81,3 +81,8 @@ Line Chart: Track sales trends over time.
 Employee Data:
 Pie Chart: Show the percentage of employees by department.
 Heat Map: Show employee density across regions or locations.
+
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/55f7f43f-6c98-4a90-8b5d-71def14c77c3)
+![Image](https://github.com/user-attachments/assets/d9239a0d-2920-4f81-9a52-20de7c5922b5)
+![Image](https://github.com/user-attachments/assets/d4cf4352-135f-4843-b594-4f971b4716e9)
